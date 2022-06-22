@@ -4,8 +4,8 @@
 
 <style scoped>
 .right-Container {
-  flex: 65%;
-  background-color: rgb(51, 255, 0);
+  flex: 70%;
+  background-color: rgb(208, 212, 207);
   height: 80vh;
 }
 </style>
