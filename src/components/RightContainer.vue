@@ -6,6 +6,5 @@
 .right-Container {
   flex: 70%;
   background-color: rgb(208, 212, 207);
-  height: 80vh;
 }
 </style>
