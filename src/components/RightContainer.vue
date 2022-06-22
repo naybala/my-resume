@@ -1,11 +1,11 @@
 <template>
-  <div class="container col-md-5">
-    <div class="btn btn-primary">Hello</div>
-  </div>
+  <div class="right-Container">2</div>
 </template>
 
 <style scoped>
-.container {
-  background-color: rgb(124, 173, 173);
+.right-Container {
+  flex: 65%;
+  background-color: rgb(51, 255, 0);
+  height: 80vh;
 }
 </style>

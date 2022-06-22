@@ -1,9 +1,7 @@
 <template>
-  <div class="container-col-md-10 text-center mt-5">
-    <div class="row">
-      <LeftContainer />
-      <RightContainer />
-    </div>
+  <div class="flex-container">
+    <LeftContainer />
+    <RightContainer />
   </div>
 </template>
 
@@ -17,3 +15,13 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+</style>
