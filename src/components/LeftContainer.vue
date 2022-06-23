@@ -1,6 +1,6 @@
 <template>
   <div class="left-Container">
-    <div class="profile-container bg-dark text-center">
+    <div class="profile-container bg-dark text-center" id="profile">
       <img src="./../assets/image/myProfile.png" alt="" class="img" />
     </div>
     <div class="profile-container mt-2">
@@ -47,6 +47,11 @@
       </div>
     </div>
     <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
     <hr class="text-white" />
     <div class="profile-container mt-2">
       <h3 class="text-white text-center fw-bold">Skills</h3>
@@ -76,12 +81,30 @@
   border-top-left-radius: 1rem;
   width: 100%;
 }
+#profile {
+  background-image: url("../assets/image/bg.jpg");
+  background-position-y: -23rem;
+  background-position-x: -60rem;
+  background-repeat: no-repeat;
+}
 img {
-  width: 250px;
+  width: 350px;
 }
 h5,
 p {
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 991px) {
+  .profile-container {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+  .left-Container {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 0rem;
+  }
 }
 </style>
