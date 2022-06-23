@@ -4,7 +4,7 @@
       <img src="./../assets/image/myProfile.png" alt="" class="img" />
     </div>
     <div class="profile-container mt-2">
-      <h3 class="text-white text-center">Personal Details</h3>
+      <h3 class="text-white text-center fw-bold">Personal Details</h3>
       <hr class="text-white" />
       <div>
         <h5 class="text-white text-center">Email Address</h5>
@@ -49,14 +49,16 @@
     <br />
     <hr class="text-white" />
     <div class="profile-container mt-2">
-      <h3 class="text-white text-center">Skills</h3>
+      <h3 class="text-white text-center fw-bold">Skills</h3>
       <hr class="text-white" />
-      <p class="text-white ms-1">
-        <span>Front-End : HTML , CSS , BootStrap , JavaScript , Jquery , Vue-Js </span
-        ><br />
-        Back-End : Php , Laravel , Api <br />
-        DataBase : MySQL
-      </p>
+      <h5 class="text-white text-center">Front-End Skills</h5>
+      <p class="text-white text-center">Html , Css , BootStrap , JavaScript , Jquery</p>
+      <br />
+      <h5 class="text-white text-center">Back-End Skills</h5>
+      <p class="text-white text-center">Php , Laravel , Api</p>
+      <br />
+      <h5 class="text-white text-center">Database</h5>
+      <p class="text-white text-center">MySQL</p>
       <br />
     </div>
   </div>
