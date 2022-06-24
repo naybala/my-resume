@@ -107,4 +107,11 @@ p {
     border-bottom-left-radius: 0rem;
   }
 }
+
+@media (min-width: 990px) and (max-width: 1400px) {
+  #profile {
+    background-position-y: -25rem;
+    background-position-x: 0rem;
+  }
+}
 </style>
