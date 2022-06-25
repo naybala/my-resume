@@ -57,7 +57,9 @@
       <h3 class="text-white text-center fw-bold">Skills</h3>
       <hr class="text-white" />
       <h5 class="text-white text-center">Front-End Skills</h5>
-      <p class="text-white text-center">Html , Css , BootStrap , JavaScript , Jquery</p>
+      <p class="text-white text-center">
+        Html , Css , BootStrap , JavaScript , Jquery , Vue js
+      </p>
       <br />
       <h5 class="text-white text-center">Back-End Skills</h5>
       <p class="text-white text-center">Php , Laravel , Api</p>
