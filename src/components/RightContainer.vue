@@ -1,6 +1,6 @@
 <template>
   <div class="right-Container">
-    <div class="profile-container mt-3 ms-5">
+    <div class="profile-container mt-3 ms-lg-5 ms-2 ms-md-5">
       <!-- Education  Section Start-->
       <h3 class="fw-bold">Education</h3>
       <hr />
@@ -137,5 +137,13 @@ span {
 a {
   text-decoration: none;
   color: #569eac;
+}
+
+@media screen and (max-width: 991px) {
+  .right-Container {
+    border-top-right-radius: 0rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
 }
 </style>
