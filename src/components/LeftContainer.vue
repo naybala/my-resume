@@ -84,10 +84,7 @@
   width: 100%;
 }
 #profile {
-  background-image: url("../assets/image/bg.jpg");
-  background-position-y: -23rem;
-  background-position-x: -60rem;
-  background-repeat: no-repeat;
+  background-image: url("../assets/image/coding.gif");
 }
 img {
   width: 350px;
@@ -111,9 +108,5 @@ p {
 }
 
 @media (min-width: 990px) and (max-width: 1400px) {
-  #profile {
-    background-position-y: -25rem;
-    background-position-x: 0rem;
-  }
 }
 </style>

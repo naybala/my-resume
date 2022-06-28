@@ -61,7 +61,7 @@
       <div>
         <h5><span>Bachelor Of Technology (B.Tech)</span></h5>
         <br />
-        <h5><span>Baechlor Of Engineering (B.E)</span></h5>
+        <h5><span>Bachelor Of Engineering (B.E)</span></h5>
         <br />
         <h5><span>AIMT WEB Development</span></h5>
         <br />
