@@ -85,6 +85,7 @@
 }
 #profile {
   background-image: url("../assets/image/coding.gif");
+  border: none;
 }
 img {
   width: 350px;
