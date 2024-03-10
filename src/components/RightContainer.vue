@@ -105,9 +105,9 @@
       <hr />
       <div>
         <ul>
-          <li>awebsite wesign perspective.</li>
-          <li>I can work in accordance with Dealine.</li>
-          <li>I can work inateam and haveastrong desire to learn.</li>
+          <li>A website design perspective.</li>
+          <li>I can work in accordance with deadline.</li>
+          <li>I can work in a team and have a strong desire to learn.</li>
           <li>I can complete tasks within the specified time.</li>
           <li>I have good teamwork and communication skills.</li>
           <li>Self-directed and able to work without supervision.</li>

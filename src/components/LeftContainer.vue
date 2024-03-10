@@ -58,7 +58,7 @@
       <hr class="text-white" />
       <h5 class="text-white text-center">Front-End Skills</h5>
       <p class="text-white text-center">
-        Html , Css , BootStrap , JavaScript , Jquery , Vue js
+        Html , Css , BootStrap , Tailwind , JavaScript , Jquery , Vue js , React js
       </p>
       <br />
       <h5 class="text-white text-center">Back-End Skills</h5>
