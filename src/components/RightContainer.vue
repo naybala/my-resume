@@ -50,6 +50,16 @@
           </div>
         </h5>
       </div>
+      <br>
+      <div>
+        <h5 class="d-inline-block">
+         July 2022 - March 2024
+          <div class="text-center d-inline-block">
+            <span> Full Stack Developer</span>
+            <span> at Zote By Focus Innovation , MICT Park , Hlaing , Yangon</span>
+          </div>
+        </h5>
+      </div>
       <br />
       <br />
       <br />
@@ -90,6 +100,15 @@
           <span
             ><a href="https://www.facebook.com/profile.php?id=100076412994170"
               >Instagram</a
+            ></span
+          >
+        </h5>
+      </div>
+      <div>
+        <h5>
+          <span
+            ><a href="https://www.linkedin.com/in/nay-ba-la-davion-02045529a"
+              >LinkedIn</a
             ></span
           >
         </h5>
