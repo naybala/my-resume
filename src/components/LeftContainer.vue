@@ -8,7 +8,7 @@
       <hr class="text-white" />
       <div>
         <h5 class="text-white text-center">Email Address</h5>
-        <p class="text-white text-center">naybala.153808@gmail.com</p>
+        <p class="text-white text-center">naybala.personal@gmail.com</p>
       </div>
       <br />
       <div>
