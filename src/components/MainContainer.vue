@@ -13,6 +13,15 @@
       <LeftContainer />
       <RightContainer />
     </div>
+    <br>
+    <h2>Developed Projects</h2>
+    <div >
+      <LuxuraSpa/>
+    </div>
+    <br>
+    <div >
+      <RahtaEntertainment/>
+    </div>
   </div>
 </template>
 
@@ -20,11 +29,15 @@
 import Loader from "./Loader.vue";
 import LeftContainer from "./LeftContainer.vue";
 import RightContainer from "./RightContainer.vue";
+import LuxuraSpa from "./LuxuraSpa.vue";
+import RahtaEntertainment from "./RahtaEntertainment.vue";
 export default {
   components: {
     Loader,
     LeftContainer,
     RightContainer,
+    LuxuraSpa,
+    RahtaEntertainment,
   },
   data: () => ({
     loading: true,
