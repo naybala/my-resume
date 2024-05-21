@@ -22,6 +22,18 @@
     <div >
       <RahtaEntertainment/>
     </div>
+    <br>
+    <div >
+      <Arimadanapura/>
+    </div>
+    <br>
+    <div >
+      <GFMS/>
+    </div>
+    <br>
+    <div >
+      <GHRS/>
+    </div>
   </div>
 </template>
 
@@ -31,6 +43,9 @@ import LeftContainer from "./LeftContainer.vue";
 import RightContainer from "./RightContainer.vue";
 import LuxuraSpa from "./LuxuraSpa.vue";
 import RahtaEntertainment from "./RahtaEntertainment.vue";
+import Arimadanapura from "./Arimadanapura.vue";
+import GFMS from "./GFMS.vue";
+import GHRS from "./GHRS.vue";
 export default {
   components: {
     Loader,
@@ -38,6 +53,9 @@ export default {
     RightContainer,
     LuxuraSpa,
     RahtaEntertainment,
+    Arimadanapura,
+    GFMS,
+    GHRS 
   },
   data: () => ({
     loading: true,

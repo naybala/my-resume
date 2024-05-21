@@ -37,6 +37,7 @@
 }
 img {
   width: 350px;
+  height: 260px;
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
 }
